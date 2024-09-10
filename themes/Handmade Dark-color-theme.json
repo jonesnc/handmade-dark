@@ -15,18 +15,18 @@
 		"sideBar.dropBackground": "#161616",
 
 		"statusBar.background": "#161616",
-		
+
 		"titleBar.activeBackground": "#161616",
 		"sideBarTitle.foreground": "#bbbbbb",
-		
+
 		"menu.background": "#161616",
-		
+
 		"panel.background": "#161616",
-		
+
 		"dropdown.background": "#161616",
-		
+
 		"terminal.background": "#161616",
-		
+
 		"activityBar.background": "#161616",
 		"activityBarBadge.background": "#161616"
 	},
@@ -76,7 +76,7 @@
 				"meta.use.php",
 				"markup.underline",
 				"markup.raw.block.fenced.markdown",
-				"markup.table",	
+				"markup.table",
 				"support.function",
 				"support.type",
 				"support.class",
@@ -114,6 +114,7 @@
 				"keyword.control",
 				"keyword.other.unit",
 				"keyword.other",
+                "keyword.operator.logical.python",
 				"storage.type",
 				"storage.modifier",
 				"entity.name.type",
@@ -134,7 +135,7 @@
 				"entity.name.function.decorator.python",
 				"punctuation.definition.decorator.python",
 				"support.type"
-				
+
 			],
 			"settings": {
 				"foreground": "#cd950c",
