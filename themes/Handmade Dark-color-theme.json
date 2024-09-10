@@ -114,7 +114,7 @@
 				"keyword.control",
 				"keyword.other.unit",
 				"keyword.other",
-                "keyword.operator.logical.python",
+				"keyword.operator.logical.python",
 				"storage.type",
 				"storage.modifier",
 				"entity.name.type",
